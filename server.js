@@ -27,7 +27,7 @@ var server = http.createServer(function(request, response){
     response.write(`
     <!DOCTYPE html>
 <head>
-   <link rel="stylesheet" href="/style.css"
+   <link rel="stylesheet" href="/style.css">
 </head>
 <body>
     哈哈哈哈哈哈
